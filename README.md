@@ -12,14 +12,6 @@
 
 网页链接：[点击预览](https://snowdreams1006.github.io/resume/)
 
-- 简历页面展示： 
-
-![简历页面展示](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288435058-5e6b931a-5ddf-4f8f-97b8-fdf1030ee04b.png) 
-
-- 保存后的 pdf 版本：
-
-![保存后的 pdf 版本](https://cdn.nlark.com/yuque/0/2019/png/338441/1563288446983-260d6296-7fb9-4e94-982a-b2e0c9ac6775.png) 
-
 ## 总结
 
 这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
@@ -27,10 +19,6 @@
 ## 关于我
 
 Hey，我是雪之梦技术驿站，Java 攻城狮，常年出没于 Github、慕课网、简书 等地带。目前主要负责企业后端管理系统开发以及App后端开发以及维护、微服务技术实施、基础设施构建等工作；解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
-
-- 个人主页：[https://snowdreams1006.github.io/](https://snowdreams1006.github.io/)
-- 慕课网主页：[https://www.imooc.com/u/5224488/articles](https://www.imooc.com/u/5224488/articles)
-- 微信公众号：[雪之梦技术驿站](https://snowdreams1006.github.io/snowdreams1006-wechat-public.jpeg)
 
 
 [![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/snowdreams1006)
@@ -47,6 +35,10 @@ Hey，我是雪之梦技术驿站，Java 攻城狮，常年出没于 Github、�
 [![腾讯云社区](https://img.shields.io/badge/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%A4%BE%E5%8C%BA-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg)](https://cloud.tencent.com/developer/user/2952369/activities)
 
 
+- 个人主页：[https://snowdreams1006.github.io/](https://snowdreams1006.github.io/)
+- 慕课网主页：[https://www.imooc.com/u/5224488/articles](https://www.imooc.com/u/5224488/articles)
+- 微信公众号：[雪之梦技术驿站](https://snowdreams1006.github.io/snowdreams1006-wechat-public.jpeg)
+
 微信公众号：雪之梦技术驿站
 
-	![微信公众号-雪之梦技术驿站](https://snowdreams1006.github.io/snowdreams1006-wechat-public.jpeg)
+![微信公众号-雪之梦技术驿站](https://snowdreams1006.github.io/snowdreams1006-wechat-public.jpeg)
