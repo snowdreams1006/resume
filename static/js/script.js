@@ -86,6 +86,4 @@ jQuery(document).ready(function($) {
         $(this).attr("value", event.offsetX/$(this).width()/0.8 * $(this).attr("max"));
     });
     // $("*").removeAttr('contenteditable');
-    
-    $("#download").removeAttr('contenteditable').css("padding-top","15px");
 });
