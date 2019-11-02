@@ -12,6 +12,8 @@
 
 这里还需要再三提醒一句，千万不要在发布的简历中加上个人身份敏感信息呀！最后再给看到这里的同学一个福利吧：https://www.canva.com/templates/resumes/
 
+> [简历传送门](http://labfile.oss.aliyuncs.com/courses/624/cv-template.zip)
+
 ## 关于
 
 [![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/snowdreams1006)
