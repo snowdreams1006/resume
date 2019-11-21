@@ -31,7 +31,7 @@
 
 Hey，我是雪之梦技术驿站，Java 攻城狮，常年出没于 Github、慕课网、简书 等地带。目前主要负责企业后端管理系统开发以及App后端开发以及维护、微服务技术实施、基础设施构建等工作；解决各种公司的「疑难杂症」，实现「天马行空」的需求。一直在需求和开发之间徘徊挣扎，任处于一线开发之中，绝招尚在开发。
 
-- 个人主页：[https://snowdreams1006.github.io/](https://snowdreams1006.github.io/)
+- 个人主页：[https://snowdreams1006.cn/](https://snowdreams1006.cn/)
 - 慕课网主页：[https://www.imooc.com/u/5224488/articles](https://www.imooc.com/u/5224488/articles)
 - 微信公众号：[雪之梦技术驿站](https://snowdreams1006.github.io/snowdreams1006-wechat-public.jpeg)
 
