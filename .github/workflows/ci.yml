@@ -14,7 +14,7 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         KEY: ${{ secrets.KEY }}
       with:
-        source: .
+        source: static,index.html,README.md,LICENSE
         target: /root/resume
         strip_components: 1
     - name: Deploy resume
