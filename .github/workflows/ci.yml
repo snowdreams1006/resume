@@ -16,6 +16,7 @@ jobs:
       with:
         source: ./*
         target: /root/resume
+        rm: /root/resume
         strip_components: 1
     - name: Deploy resume
       uses: appleboy/ssh-action@master
