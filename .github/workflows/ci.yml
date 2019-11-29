@@ -16,6 +16,7 @@ jobs:
       with:
         source: static,index.html,README.md,LICENSE
         target: /root/resume
+        rm: true
     - name: Deploy resume
       uses: appleboy/ssh-action@master
       with:
